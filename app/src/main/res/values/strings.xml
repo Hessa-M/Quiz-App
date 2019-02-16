@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">Question 1: Choose the appropriate data type for this value:5.5 ? </string>
+    <string name="q1.a1">int</string>
+    <string name="q1.a2">double</string>
+    <string name="q1.a3">boolean</string>
+    <string name="q1.a4">String</string>
+    <string name="question2">Question 2: Java keyword are written in lowercase as well as uppercase ? </string>
+    <string name="q2.a1">True</string>
+    <string name="q2.a2">False</string>
+    <string name="question3">Question 3: Which of the following is not a Java keyword ? </string>
+    <string name="q3.a1">static</string>
+    <string name="q3.a2">public</string>
+    <string name="q3.a3">Integer</string>
+    <string name="q3.a4">new</string>
+    <string name="question4">Question 4: Which of the following are Java keywords ? </string>
+    <string name="q4.a1">true</string>
+    <string name="q4.a2">long</string>
+    <string name="q4.a3">static</string>
+    <string name="q4.a4">end</string>
+    <string name="question5">Question 5: What is the main programming language for Android Development ? </string>
+    <string name="hint">Program language</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
